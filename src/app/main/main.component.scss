@@ -1,0 +1,50 @@
+#sec1{
+    background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../../assets/laptop2.jpg');
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.example-card {
+    max-width: 400px;
+  }
+
+  .example-card:hover{
+    box-shadow: 10px 10px 8px #888888;
+    transform: translateY(-15px);
+    transition: ease 0.7s;
+
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  
+.ic{
+  padding: 8px;
+}
+// #sec2{
+
+//   background-color: whitesmoke;
+//   padding: 20px;
+// }
+
+// #sec{
+//   padding: 20px;
+//   background-color: whitesmoke;
+// }
+
+.navbar-light .navbar-nav .nav-link {
+  color:white;
+  padding: 13px;
+  font-size: 20px;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+  font-size: 25px;
+}
+.bg-light {
+  background-color: #f8f9fa!important;
+}
